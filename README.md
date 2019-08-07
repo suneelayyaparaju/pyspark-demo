@@ -1,0 +1,1 @@
+The module amazon_s3_access.py reads the text file stored in AWS S3 using PySpark.
